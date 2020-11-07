@@ -16,6 +16,7 @@ install buildozer and its dependencies (command on official buildozer doc)
 in project directory just add following commmands in terminal :
 
 buildozer init
+
 buildozer -v android debug
 
 your apk is ready in:  project_dir/bin/
